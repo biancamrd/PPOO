@@ -1,0 +1,6 @@
+Harry Potter and the Philosopher's Stone|J.K. Rowling|Fantasy|AVAILABLE|1997
+1984|George Orwell|Dystopian|AVAILABLE|1949
+Cien años de soledad|Gabriel García Márquez|Magical Realism|UNAVAILABLE|1967
+Al doilea roman al lui J.K. Rowling|J.K. Rowling|Fantasy|UNAVAILABLE|2002
+Animal Farm|George Orwell|Satire|AVAILABLE|1945
+Love in the Time of Cholera|Gabriel García Márquez|Romance|AVAILABLE|1985
